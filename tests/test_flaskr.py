@@ -3,7 +3,6 @@ import flaskr
 from flaskr.flaskr import init_db
 import unittest
 import tempfile
-from flask import session
 
 
 class FlaskrTestCase(unittest.TestCase):

@@ -2,3 +2,4 @@ venv
 MANIFEST.in
 flaskr.egg-info
 .idea
+.eggs
