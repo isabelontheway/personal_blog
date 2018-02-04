@@ -10,14 +10,13 @@
                 <dd><input type=submit value=Share>
             </dl>
         </form>
+    {% endif %}
         <ul class=entries>
             <h2> {{show_entries}} </h2>
                 {% for entry in entries %}
                     <li><h2>{{ entry.title}}</h2>{{ entry.text|safe }}
                 {% else %}
-                    <li><em>Unbelievable. No entries her so far.</em>
+                    <li><em>Unbelievable. No entries here so far.</em>
                 {% endfor %}
         </ul>
-    {% endif %}
-
 {% endblock %}
