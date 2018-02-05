@@ -3,3 +3,6 @@ MANIFEST.in
 flaskr.egg-info
 .idea
 .eggs
+flaskr/flaskr.db
+*pyc
+*/*pyc
