@@ -1,8 +1,0 @@
-{
-  "tests/test_flaskr.py::FlaskrTestCase::test_empty_db": true, 
-  "tests/test_flaskr.py::FlaskrTestCase::test_login_logout": true, 
-  "tests/test_flaskr.py::FlaskrTestCase::test_message": true, 
-  "tests/test_flaskr.py::test_empty_db": true, 
-  "tests/test_flaskr.py::test_login_logout": true, 
-  "tests/test_flaskr.py::test_message": true
-}
