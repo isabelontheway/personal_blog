@@ -1,4 +1,4 @@
-~ What is Flaskr?
+    ~ What is Flaskr?
 
       A sqlite powered thumble blog application
 
